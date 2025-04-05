@@ -1,3 +1,5 @@
+Creating a springboot application with basic login using MONGODB using spring security.
+
 First Setup up MongoDB
 
 Create a DB(admin) and collection(login)
